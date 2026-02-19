@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="3416" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4077" dy="1780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,6 +506,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-47" edge="1" parent="1" source="P4cKmI306XqTtiWKxWff-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="xnzG6aruFdejCUBCtzsN-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1709" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-57" connectable="0" parent="xnzG6aruFdejCUBCtzsN-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="0.3409" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P4cKmI306XqTtiWKxWff-148" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="ข้อมูลกระทำความผิดซ้ำ" vertex="1">
           <mxGeometry height="40" width="100" x="1659" y="347" as="geometry" />
         </mxCell>
@@ -625,6 +637,51 @@
         </mxCell>
         <mxCell id="xnzG6aruFdejCUBCtzsN-30" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="เจ้าหน้าที่ประเมิน" vertex="1">
           <mxGeometry height="40" width="100" x="1008" y="943" as="geometry" />
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-53" edge="1" parent="1" source="xnzG6aruFdejCUBCtzsN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="P4cKmI306XqTtiWKxWff-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-298" y="842" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-58" connectable="0" parent="xnzG6aruFdejCUBCtzsN-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="-0.3671" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-45" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="สำนวนคดีใหม่" vertex="1">
+          <mxGeometry height="40" width="100" x="-341" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-48" edge="1" parent="1" source="xnzG6aruFdejCUBCtzsN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="xnzG6aruFdejCUBCtzsN-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-56" connectable="0" parent="xnzG6aruFdejCUBCtzsN-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="0.0401" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-46" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="จัดเก็บ" vertex="1">
+          <mxGeometry height="60" width="120" x="557" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-50" edge="1" parent="1" source="xnzG6aruFdejCUBCtzsN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="xnzG6aruFdejCUBCtzsN-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-55" connectable="0" parent="xnzG6aruFdejCUBCtzsN-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="-0.1184" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-51" edge="1" parent="1" source="xnzG6aruFdejCUBCtzsN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="P4cKmI306XqTtiWKxWff-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-54" connectable="0" parent="xnzG6aruFdejCUBCtzsN-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.0468" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnzG6aruFdejCUBCtzsN-49" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="เป็นของ" vertex="1">
+          <mxGeometry height="60" width="120" x="-706" y="295" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
