@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="JzFg9xv6xs2GIpoHeMG_">
+    <mxGraphModel dx="1212" dy="733" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3iUmoIwNThX2C-kGxnwU-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;กรมราชทัณฑ์&lt;/span&gt;" vertex="1">
+          <mxGeometry height="67" width="60" x="91" y="163" as="geometry" />
+        </mxCell>
+        <mxCell id="3iUmoIwNThX2C-kGxnwU-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="60" width="59" x="91" y="298" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
