@@ -239,48 +239,6 @@
         <mxCell id="jIPd7uFzdkQIshfZribe-75" parent="1kBe6HGvAqJLBCZKrKET-17" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" value="" vertex="1">
           <mxGeometry height="112.5" width="112" x="96.5" y="141" as="geometry" />
         </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-18" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="234" width="3270" x="46" y="-282" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-21" parent="1kBe6HGvAqJLBCZKrKET-18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Governance &amp;amp; Data Catalog&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="235" x="39" y="34" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-29" parent="1kBe6HGvAqJLBCZKrKET-18" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/security.svg;" value="" vertex="1">
-          <mxGeometry height="132.5" width="83.48" x="515" y="21" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-32" parent="1kBe6HGvAqJLBCZKrKET-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Access Control &amp;amp; Security" vertex="1">
-          <mxGeometry height="40" width="174" x="482" y="169" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-30" parent="1kBe6HGvAqJLBCZKrKET-18" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Data_Privacy_Integration" value="" vertex="1">
-          <mxGeometry height="134" width="134" x="1161" y="21" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-31" parent="1kBe6HGvAqJLBCZKrKET-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Privacy &amp;amp; Masking" vertex="1">
-          <mxGeometry height="40" width="153" x="1151.5" y="169" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-34" parent="1kBe6HGvAqJLBCZKrKET-18" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/User_Settings.svg;" value="" vertex="1">
-          <mxGeometry height="90.86" width="108.56" x="1882" y="41.82" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-33" parent="1kBe6HGvAqJLBCZKrKET-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Stewardship" vertex="1">
-          <mxGeometry height="40" width="128.27" x="1862.29" y="157" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-36" parent="1kBe6HGvAqJLBCZKrKET-18" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.aws_glue_data_quality;" value="" vertex="1">
-          <mxGeometry height="93" width="93" x="2649" y="34" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-35" parent="1kBe6HGvAqJLBCZKrKET-18" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Quality Policies" vertex="1">
-          <mxGeometry height="40" width="152" x="2616" y="157" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-19" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="200" width="1513" x="723" y="1048" as="geometry" />
-        </mxCell>
-        <mxCell id="1kBe6HGvAqJLBCZKrKET-22" parent="1kBe6HGvAqJLBCZKrKET-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Quality Monitoring &amp;amp; Observability&lt;br&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="235" x="54" y="41" as="geometry" />
-        </mxCell>
-        <mxCell id="mNKxDLr9w3VgXO-1uP0W-10" parent="1kBe6HGvAqJLBCZKrKET-19" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_workflows_for_apache_airflow;" value="" vertex="1">
-          <mxGeometry height="104" width="104" x="342.5" y="29" as="geometry" />
-        </mxCell>
-        <mxCell id="mNKxDLr9w3VgXO-1uP0W-11" parent="1kBe6HGvAqJLBCZKrKET-19" style="rounded=0;whiteSpace=wrap;html=1;" value="Apache Airflow" vertex="1">
-          <mxGeometry height="40" width="124" x="332.5" y="145" as="geometry" />
-        </mxCell>
         <mxCell id="1kBe6HGvAqJLBCZKrKET-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Machine Learning" vertex="1">
           <mxGeometry height="40" width="120" x="3145" y="205" as="geometry" />
         </mxCell>
@@ -289,6 +247,84 @@
         </mxCell>
         <mxCell id="1kBe6HGvAqJLBCZKrKET-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dashboard" vertex="1">
           <mxGeometry height="40" width="120" x="3140" y="569" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Quality Monitoring &amp;amp; Observability&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="235" x="81" y="1788" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Orchestration" vertex="1">
+          <mxGeometry height="40" width="124" x="1279" y="1083" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-14" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.checklist_security;fillColor=#759C3E;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="106" width="89" x="1113" y="1057" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-15" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="276" width="856" x="41" y="948" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-16" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_workflows_for_apache_airflow;" value="" vertex="1">
+          <mxGeometry height="104" width="104" x="197" y="1043" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Orchestration" vertex="1">
+          <mxGeometry height="40" width="124" x="378" y="1081" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-20" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="276" width="856" x="919.22" y="948" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-23" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.metadata_file;" value="" vertex="1">
+          <mxGeometry height="97" width="75" x="1839" y="-240.14" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Governance &amp;amp; Data Catalog&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="235" x="1531" y="-351" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-29" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/security.svg;" value="" vertex="1">
+          <mxGeometry height="132.5" width="83.48" x="193" y="-251" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Access Control &amp;amp; Security" vertex="1">
+          <mxGeometry height="40" width="174" x="147.74" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-30" parent="1" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Data_Privacy_Integration" value="" vertex="1">
+          <mxGeometry height="134" width="134" x="548" y="-251" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Privacy &amp;amp; Masking" vertex="1">
+          <mxGeometry height="40" width="153" x="538.5" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-34" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/User_Settings.svg;" value="" vertex="1">
+          <mxGeometry height="90.86" width="108.56" x="981" y="-238" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Stewardship" vertex="1">
+          <mxGeometry height="40" width="128.27" x="959" y="-109" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-36" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.aws_glue_data_quality;" value="" vertex="1">
+          <mxGeometry height="93" width="93" x="1348" y="-240.14" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBe6HGvAqJLBCZKrKET-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Quality Policies" vertex="1">
+          <mxGeometry height="40" width="152" x="1316" y="-109" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Metadata Management" vertex="1">
+          <mxGeometry height="40" width="152" x="1798" y="-117" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-25" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Quartz-2138/Book-1039.png" value="" vertex="1">
+          <mxGeometry height="109" width="109" x="2202" y="-242" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Dictionary" vertex="1">
+          <mxGeometry height="40" width="152" x="2178" y="-113" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-28" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.datazone_business_data_catalog;" value="" vertex="1">
+          <mxGeometry height="86.79" width="79" x="2599" y="-229.92999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Business Glossary" vertex="1">
+          <mxGeometry height="40" width="152" x="2562.5" y="-113" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Lineage" vertex="1">
+          <mxGeometry height="40" width="152" x="2952" y="-113" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-31" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux_vm;" value="" vertex="1">
+          <mxGeometry height="95" width="99" x="2981.18" y="-229.93" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-32" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="256" width="1552" x="85" y="-271" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-33" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="256" width="1593" x="1667" y="-271" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
