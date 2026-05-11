@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="JzFg9xv6xs2GIpoHeMG_">
-    <mxGraphModel dx="3433" dy="3177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2943" dy="2880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,8 +224,8 @@
         <mxCell id="1kBe6HGvAqJLBCZKrKET-14" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="776" width="1509" x="723" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="jIPd7uFzdkQIshfZribe-46" parent="1kBe6HGvAqJLBCZKrKET-14" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Lake&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="59" y="49" as="geometry" />
+        <mxCell id="jIPd7uFzdkQIshfZribe-46" parent="1kBe6HGvAqJLBCZKrKET-14" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Lake House&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="162" x="59" y="49" as="geometry" />
         </mxCell>
         <mxCell id="1kBe6HGvAqJLBCZKrKET-15" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="344.82" width="213" x="2274" y="282" as="geometry" />
