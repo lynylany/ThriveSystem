@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="JzFg9xv6xs2GIpoHeMG_">
-    <mxGraphModel dx="2060" dy="1646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4120" dy="2892" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,7 +276,10 @@
           <mxGeometry height="40" width="235" x="54" y="41" as="geometry" />
         </mxCell>
         <mxCell id="mNKxDLr9w3VgXO-1uP0W-10" parent="1kBe6HGvAqJLBCZKrKET-19" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_workflows_for_apache_airflow;" value="" vertex="1">
-          <mxGeometry height="104" width="104" x="346" y="33" as="geometry" />
+          <mxGeometry height="104" width="104" x="342.5" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-11" parent="1kBe6HGvAqJLBCZKrKET-19" style="rounded=0;whiteSpace=wrap;html=1;" value="Apache Airflow" vertex="1">
+          <mxGeometry height="40" width="124" x="332.5" y="145" as="geometry" />
         </mxCell>
         <mxCell id="1kBe6HGvAqJLBCZKrKET-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Machine Learning" vertex="1">
           <mxGeometry height="40" width="120" x="3145" y="205" as="geometry" />
