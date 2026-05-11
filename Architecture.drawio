@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="JzFg9xv6xs2GIpoHeMG_">
-    <mxGraphModel dx="3433" dy="2077" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,10 +41,10 @@
           <mxGeometry height="118" width="118" x="2991" y="176" as="geometry" />
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-21" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard2.svg;" value="" vertex="1">
-          <mxGeometry height="102" width="144.5" x="2973.75" y="426.82" as="geometry" />
+          <mxGeometry height="102" width="144.5" x="2968" y="359.5" as="geometry" />
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-22" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" value="" vertex="1">
-          <mxGeometry height="125" width="93.75" x="2987" y="620" as="geometry" />
+          <mxGeometry height="125" width="93.75" x="2983.81" y="521" as="geometry" />
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bronze Layer" vertex="1">
           <mxGeometry height="40" width="120" x="782.0000000000001" y="550" as="geometry" />
@@ -173,13 +173,13 @@
         <mxCell id="jIPd7uFzdkQIshfZribe-70" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2751" y="476" as="sourcePoint" />
-            <mxPoint x="2954" y="476" as="targetPoint" />
+            <mxPoint x="2944" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-71" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2752" y="476" as="sourcePoint" />
-            <mxPoint x="2932" y="669" as="targetPoint" />
+            <mxPoint x="2946" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-73" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-74" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.report;" value="" vertex="1">
-          <mxGeometry height="102" width="88.12" x="2991" y="876" as="geometry" />
+          <mxGeometry height="102" width="88.12" x="2986.63" y="741" as="geometry" />
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-75" parent="1" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" value="" vertex="1">
           <mxGeometry height="112.5" width="112" x="2615" y="176" as="geometry" />
@@ -202,8 +202,8 @@
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-78" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2745" y="803" as="sourcePoint" />
-            <mxPoint x="2958" y="928" as="targetPoint" />
+            <mxPoint x="2745" y="785" as="sourcePoint" />
+            <mxPoint x="2948" y="791" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
