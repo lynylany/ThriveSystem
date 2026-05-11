@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="JzFg9xv6xs2GIpoHeMG_">
-    <mxGraphModel dx="2289" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3433" dy="2077" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,7 +138,7 @@
           <mxGeometry height="40" width="120" x="1872" y="310" as="geometry" />
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Integration Layer 1&lt;/font&gt;" vertex="1">
-          <mxGeometry height="51" width="120" x="1468" y="303" as="geometry" />
+          <mxGeometry height="51" width="120" x="1459.5" y="308.5" as="geometry" />
         </mxCell>
         <mxCell id="jIPd7uFzdkQIshfZribe-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Integration Layer 2&lt;/font&gt;" vertex="1">
           <mxGeometry height="51" width="120" x="2320" y="345" as="geometry" />
