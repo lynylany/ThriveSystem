@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="JzFg9xv6xs2GIpoHeMG_">
-    <mxGraphModel dx="3433" dy="2877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4120" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,8 +326,8 @@
         <mxCell id="mNKxDLr9w3VgXO-1uP0W-42" parent="mNKxDLr9w3VgXO-1uP0W-39" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;DataOps (Orchestration &amp;amp; Observability)&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="252.5" x="51.5" y="33" as="geometry" />
         </mxCell>
-        <mxCell id="mNKxDLr9w3VgXO-1uP0W-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Data Architecture Phase 1&lt;/font&gt;" vertex="1">
-          <mxGeometry height="85" width="582" x="46" y="-478" as="geometry" />
+        <mxCell id="mNKxDLr9w3VgXO-1uP0W-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Data Architecture Phase 1 :&amp;nbsp;The Foundation of Justice Master Data&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="1432" x="46" y="-478" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
